@@ -1,4 +1,4 @@
 # Participantes
 
 | Nome | RA |
-|Laura Gois Casteleins| 2026107733|
+| Laura Gois Casteleins | 2026107733 |
